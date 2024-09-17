@@ -1,6 +1,7 @@
 # Customized Spotify Playlists Based on Current Weather at a US State
 
 Assignment 1: Customized Spotify Playlists Based on Current Weather at a US State
+
 By: Elyazia Abbas and Aysa Binte Masud
 
 ## Description of Program & Purpose: 
@@ -25,4 +26,12 @@ We picked the Spotify API because of its extensive library of music information 
 2. Make sure to give the notebook Access to the secrets page, you should see three keys, the weather key, client secret, and client id.
 3. Run All Cells on the Notebook.
 4. The last cell will ask you to input a US state, input the State, and the playlist will be displayed.
+5. API Keys & Secrets:
+
+Make sure to put these in the secretes section of the collab notebook 
+
+Name: SPOTIFY_CLIENT_ID  Value: d365b0c0cd67473cbeabd05547a0805c
+Name: SPOTIFY_CLIENT_SECRET Value: bd7d3293b5564228beaf92c2d3f47d32
+Name: WEATHER_API_KEY Value: VEXR1Nfkw9ewux7RX9B7ISYohAQsRTG6
+
 
