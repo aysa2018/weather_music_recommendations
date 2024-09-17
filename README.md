@@ -31,7 +31,9 @@ We picked the Spotify API because of its extensive library of music information 
 Make sure to put these in the secretes section of the collab notebook 
 
 Name: SPOTIFY_CLIENT_ID  Value: d365b0c0cd67473cbeabd05547a0805c
+
 Name: SPOTIFY_CLIENT_SECRET Value: bd7d3293b5564228beaf92c2d3f47d32
+
 Name: WEATHER_API_KEY Value: VEXR1Nfkw9ewux7RX9B7ISYohAQsRTG6
 
 
